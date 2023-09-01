@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "963252690798",
+    "project_id": "qitkif",
+    "storage_bucket": "qitkif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963252690798:android:52b304762a7586f933eb7f",
+        "android_client_info": {
+          "package_name": "com.qitkif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963252690798-0e8f2hb8bi6f7bsa9b2mr9nt5q0efvej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qitkif",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "963252690798-d3obsl0iugfgjck3hvm59cg7uevfp90b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbpKzEZqNieCUrR6cCPiPXa7Ysl2PoS7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963252690798-d3obsl0iugfgjck3hvm59cg7uevfp90b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
